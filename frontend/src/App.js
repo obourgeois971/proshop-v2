@@ -1,7 +1,11 @@
 import React from "react";
 
 const App = () => {
-  return <div>Welcom to ProShop</div>;
+  return (
+    <div>
+      <h1>Welcom to ProShop</h1>
+    </div>
+  );
 };
 
 export default App;
